@@ -1,0 +1,59 @@
+body{
+  background-image: url(http://kurld.com/images/wallpapers/simple-background/simple-background-4.jpg);
+}
+
+#name{
+  width: 100%;
+  background-color: rgba(250,112,43,0.3);
+}
+
+#skills{
+  margin-top: 0px;
+  /*padding-left: 3em;*/
+}
+
+#p_skills{
+  padding-left: 1em;
+}
+
+#p_skills2{
+  padding-left: 3em;
+}
+
+h1{
+  color: white;
+  text-align: left;
+  font-family: sans-serif;
+}
+
+#name h1{
+  font-size: 4em;
+}
+
+#sig{
+  float: right;
+  color: red;
+}
+
+#summary, #workexp, #projexp, #education{
+  color: red;
+}
+
+img{
+  float: right;
+}
+
+h2{
+  color: white;
+  margin-bottom: 0px;
+}
+
+p{
+  text-align: left;
+  font-family: fantasy;
+  color: white;
+}
+
+ul{
+  color: white;
+}
